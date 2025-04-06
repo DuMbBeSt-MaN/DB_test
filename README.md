@@ -1,2 +1,2 @@
 # DB_test
-This created as a test repository for DB project. Changes made to this are not final and are bound to change.
+This is created as a test repository for DB project. Changes made to this are not final and are bound to change.
